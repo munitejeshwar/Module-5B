@@ -181,8 +181,8 @@ print(con)
 ```
 
 ## Output
-![image](https://github.com/user-attachments/assets/fdff9bd2-b7c1-46f7-b75b-ddeb1b72e565)
-![image](https://github.com/user-attachments/assets/a43332cb-48c3-42e7-a752-34e26ff89ea7)
+<img width="1141" height="515" alt="Screenshot 2025-11-23 183526" src="https://github.com/user-attachments/assets/17a38b96-575e-4e34-919f-5d86ffc60872" />
+
 
 ## Result
 The program successfully combines the two DataFrames row-wise and displays the result.
